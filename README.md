@@ -1,9 +1,11 @@
-# 100 Days of Data
+# Data Journal
 
-Welcome to my 100 Days of Data challenge.
+Welcome to my Data Journal.
 
-For the next 100 days, I will document practical lessons, projects, and insights covering:
+This repository documents my continuous learning journey as a Data Analyst through practical lessons, projects, experiments, and technical notes.
 
+Topics covered include:
+ 
 - SQL
 - Data Modelling
 - Power BI and Reporting
@@ -15,7 +17,9 @@ For the next 100 days, I will document practical lessons, projects, and insights
 
 This repository is not about learning from scratch.
 
-It documents the continued growth of a Data Analyst with professional experience who is committed to improving technical skills through hands-on projects, experimentation, and continuous learning.
+It serves as a collection of lessons, projects, and technical concepts that I study, practice, and apply as I continue to grow professionally in the data and analytics space.
+
+The goal is to document what I learn, reinforce key concepts, and build a public knowledge base that others may find useful.
 
 ## Progress
 
@@ -49,4 +53,8 @@ Throughout this journey, topics may include:
 - Visualization Best Practices
 - Analytics Engineering Concepts
 
-Let's build, learn, and grow one day at a time.
+## Current Progress
+ 
+✅ Entry 001 Completed: SQL Window Functions
+ 
+More entries coming soon.
